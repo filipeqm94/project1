@@ -1,4 +1,4 @@
-# Personal Life Management Project
+# Personal Life Management App Project (WIP)
 
 The goal of this project is to create an all-in-one app to manage several aspects of the user's life such as budget (currently in development), health*, calendar*, stocks*, among others*
 
