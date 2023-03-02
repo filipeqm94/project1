@@ -1,4 +1,5 @@
 import './App.scss'
+import BudgetOrganizer from './Components/budget-organizer/budget-organizer.tsx'
 
 function App() {
   return (
@@ -6,6 +7,9 @@ function App() {
       <header>
         <h1>Budget Organizer</h1>
       </header>
+      <main>
+        <BudgetOrganizer/>
+      </main>
     </div>
   )
 }
